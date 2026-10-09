@@ -8,8 +8,7 @@
  * if/else и вызовы глобальных функций ColdOS.
  */
 
-function __ENTRY_FN__()
-{
+function __ENTRY_FN__() {
     $id_app = "__APP_ID__";
     $height = "600";
     $width = "800";
